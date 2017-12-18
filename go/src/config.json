@@ -1,0 +1,16 @@
+{
+    "dest_dir"  :   "/Users/macbook/goqiniu/atfuck/src/test",
+    "bucket"    :   "bmtest",
+    "domain"    :   "oop9ouklk.bkt.clouddn.com",
+    "ak"    :   "Dy1lhjk5PRrVXEYXlTFBFkimDvdx4WKOknHyJfjs",
+    "sk"    :   "hV0jI7S2A08QKAAzouGqNxthse8Fm-gMovRBeerc",
+    "is_private"    :   false,
+    "unzip"     :       true,
+    "validate"  :       true,
+    "unzip_dir" :   "/Users/macbook/goqiniu/atfuck/src/tar",
+    "prefix"    :   "",
+    "suffix"    :   "",
+    "zone":         "z0",
+    "cmd":          "",
+    "workers"   :  100
+}
